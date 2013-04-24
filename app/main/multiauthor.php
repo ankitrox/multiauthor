@@ -52,7 +52,8 @@ class multiauthor {
 
                 }
             }
-        }        
+        }
+        wp_reset_query();
         
     }
 
